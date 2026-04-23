@@ -136,5 +136,4 @@ Docker & Kubernetes status
 Apoorva Kadiyala
 Backend Developer | Flask | Docker | Kubernetes | Testing | DB Optimization
 
-📄 License
-This project is for academic and demonstration purposes.
+
