@@ -42,7 +42,7 @@ Create a .env file:
 FLASK_ENV=developmentDATABASE_URL=sqlite:///app.dbSECRET_KEY=your_secret_key
 5) Run the server (development)
 python run.py
-App runs at: http://127.0.0.1:5000
+App runs 
 
 🧪 Testing & Coverage
 pytest --cov=app tests/
